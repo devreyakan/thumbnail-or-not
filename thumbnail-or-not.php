@@ -4,6 +4,7 @@ Plugin Name: Thumbnail or Not
 Description: A column showing featured images of images is added in the media library.
 Version: 1.0
 Author: devreyakan.com
+License: GPL-3.0
 */
 
 // Medya kütüphanesine yeni bir sütun ekle
